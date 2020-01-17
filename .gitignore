@@ -1,5 +1,5 @@
-/Test/result/images
-/Test/result/data
-/Test/result/analysis
+result/images/
+result/data/
+result/analysis/
 
-!/test/result/final
+
